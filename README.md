@@ -10,8 +10,6 @@ In this tutorial, you create a CI/CD pipeline that automatically builds a contai
 
 ## Architecture
 
-![GitOps Architecture](Kubernetes_Engine.png)
-
 This tutorial uses two Git repositories:
 
 - **app repository**: Contains the application source code
